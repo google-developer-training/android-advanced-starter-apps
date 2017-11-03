@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>GPS data</name>
+  <trkseg>
+    <trkpt lat="37.419873" lon="-122.078819"></trkpt>
+    <trkpt lat="37.410901" lon="-122.085509"></trkpt>
+    <trkpt lat="37.388424" lon="-122.090022"></trkpt>
+    <trkpt lat="37.392509" lon="-122.079944"></trkpt>
+    <trkpt lat="37.390286" lon="-122.083499"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
